@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ethereum Development for Beginners
 A guide for beginners eager to learn the basics of Ethereum development.
 
@@ -20,3 +21,10 @@ If you are interested in contributing to the project, please contact us at the d
 Contact Information
 Email Address: kenta.oe01@gmail.com
 GitHub Issues: You can directly send feedback through the Issues section on the project's GitHub page.
+=======
+# Solidity
+<<<<<<< HEAD
+# Solidity
+=======
+>>>>>>> 690adf86307c0514fe34aed9ad3e6dc14c3d6fd4
+>>>>>>> cc31171ee03232bcc39e898af74a0ae757b80f58
